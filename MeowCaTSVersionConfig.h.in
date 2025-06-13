@@ -1,0 +1,4 @@
+// the configured options and settings for Tutorial
+#define MeowCaTS_VERSION_MAJOR @MeowCaTS_VERSION_MAJOR@
+#define MeowCaTS_VERSION_MINOR @MeowCaTS_VERSION_MINOR@
+#define LINUX
